@@ -12,7 +12,7 @@
 
 (test op-test
   (is (equal (let ((op (gps::make-op :action 'action
-									                   :preconds '(preconds)
+                                     :preconds '(preconds)
                                      :add-list '(add-list)
                                      :del-list '(del-list))))
                (list (gps::op-action op)
