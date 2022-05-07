@@ -48,3 +48,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# gnu-global
+# ========================
+GPATH
+GRTAGS
+GTAGS
